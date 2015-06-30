@@ -8,3 +8,6 @@ browser if clicking this link does not lead you to the webpage.) For a brief des
 dataset, click the Data Set Description link. To download the data, click the Data Folder link,
 then click the adult.data file to download the data. This dataset contains both categorical and
 continuous attributes. In addition, this dataset also contains missing attribute values.
+
+##Description:
+Know your data.
