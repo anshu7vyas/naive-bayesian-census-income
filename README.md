@@ -11,3 +11,8 @@ continuous attributes. In addition, this dataset also contains missing attribute
 
 ##Description:
 Know your data.
+
+##TODO:
+* Add code blocks
+* Structure the index.html file.
+* Add JS elements.
