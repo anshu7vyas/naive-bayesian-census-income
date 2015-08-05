@@ -7,9 +7,10 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: Work sans, sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   -ms-text-size-adjust: 100%; /* 2 */
+  text-align: justify;
 }
 
 /**
@@ -135,6 +136,7 @@ dfn {
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
+  text-align: left;
 }
 
 /**
@@ -878,4 +880,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
