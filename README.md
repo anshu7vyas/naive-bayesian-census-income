@@ -12,7 +12,3 @@ continuous attributes. In addition, this dataset also contains missing attribute
 ## Description:
 A "Naive" implementation of the Naive-Bayesian Classifier in Python.
 
-## TODO:
-* Add code blocks
-* Structure the index.html file.
-* Add JS elements.
